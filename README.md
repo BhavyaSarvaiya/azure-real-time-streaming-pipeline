@@ -53,11 +53,11 @@ azure_realtime_streaming_pipeline/
 ├── notebooks/
 │   └── azure_realtime_streaming_pipeline.ipynb
 │
-├── screenshots/
+├── Documentation/
 │   └── (Azure_Realtime_Streaming_pipeline_Documentation)
 │
 ├── data/
-│   └── sample_clickstream.csv
+│   └──All_clickstream.csv
 │
 └── README.md
 
